@@ -53,6 +53,10 @@ header {
     font-family: Arial;
 }
 
+ div.sticky {
+    position: fixed;
+    top: 40px;
+  }
 
 /* Links inside the navbar */
 
